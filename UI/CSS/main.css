@@ -163,6 +163,9 @@ img {
     text-align: center;
     font-family: roboto;
 }
+.div {
+    display: block;
+}
 
 .form-log {
     position: relative;
